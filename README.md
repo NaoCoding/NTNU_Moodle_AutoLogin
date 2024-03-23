@@ -1,11 +1,11 @@
-# NTNU_Moodle_AutoLogin
+# NTNU_Moodle_AutoLogin (Chrome Extension)
 
 ### Requirement
 ```
 下載插件包 > 打開 browser > 擴充功能 > 載入未封裝項目
 ```
 
-### Scripts
+### Source Code (若不下載套件包，可直接用tampermonkey等自動注入js的擴充功能)
 
 ```javascript
 // ==UserScript==
