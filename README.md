@@ -1,6 +1,6 @@
 # NTNU_Moodle_AutoLogin (Chrome Extension)
 
-### Requirement
+### 使用方法
 ```
 下載插件包 > 將content.js 中的學號與密碼改為自己的帳密
 > 打開 browser > 擴充功能 > 載入未封裝項目 > 選擇整個資料夾
@@ -9,16 +9,6 @@
 ### Source Code (若不下載套件包，可直接用tampermonkey等自動注入js的擴充功能)
 
 ```javascript
-// ==UserScript==
-// @name         NTNU Moodle3 AutoLogin
-// @namespace    http://tampermonkey.net/
-// @version      2024-03-23
-// @description  NTNU Moodle3 AutoLogin
-// @author       NaoCoding
-// @match        https://moodle3.ntnu.edu.tw/
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=edu.tw
-// @grant        none
-// ==/UserScript==
 
 (function() {
     var STUDENT_ID = "TYPE_YOUR_STUDENTID_HERE"
