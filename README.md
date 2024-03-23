@@ -2,8 +2,7 @@
 
 ### Requirement
 ```
-Chrome extention which will automatically run scripts once the website is loaded.
-such as tempermonkey , autojs_extention 
+下載插件包 > 打開 browser > 擴充功能 > 載入未封裝項目
 ```
 
 ### Scripts
