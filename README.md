@@ -24,3 +24,6 @@
 ```
 不定期注意網頁是否更改架構，會第一時間修改並上傳
 ```
+
+Update : this repo is archived and new extension with more functions is published at 
+https://github.com/NaoCoding/ntnu-extension
